@@ -44,11 +44,11 @@ const services = [{
         icon: web,
     },
     {
-        title: "React Native Developer",
+        title: "UI/UX",
         icon: mobile,
     },
     {
-        title: "Backend Developer",
+        title: "Product Manager",
         icon: backend,
     },
     {
