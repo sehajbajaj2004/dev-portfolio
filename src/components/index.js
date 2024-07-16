@@ -7,18 +7,22 @@ import Experience from './Experience';
 import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
+import Resume from './Resume';
+import Footer from './Footer';
 
 export {
-  Hero,
-  Navbar,
-  About,
-  Tech,
-  Experience,
-  Works,
-  Feedbacks,
-  Contact,
-  EarthCanvas, 
-  BallCanvas, 
-  ComputersCanvas, 
-  StarsCanvas
+    Hero,
+    Navbar,
+    About,
+    Tech,
+    Experience,
+    Works,
+    Feedbacks,
+    Contact,
+    EarthCanvas,
+    BallCanvas,
+    ComputersCanvas,
+    StarsCanvas,
+    Resume,
+    Footer
 }
