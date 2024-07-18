@@ -19,6 +19,8 @@ import {
     starbucks,
     tesla,
     shopify,
+    datri,
+    UPES,
     carrent,
     jobit,
     tripguide,
@@ -110,8 +112,8 @@ const technologies = [{
 const experiences = [{
         title: "Social Worker",
         company_name: "Datri",
-        icon: starbucks,
-        iconBg: "#383E56",
+        icon: datri,
+        iconBg: "#ffffff",
         date: "June 2023 - July 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
@@ -123,8 +125,8 @@ const experiences = [{
     {
         title: "Marketing Intern",
         company_name: "UPES-Dehradun",
-        icon: tesla,
-        iconBg: "#E6DEDD",
+        icon: UPES,
+        iconBg: "#ffffff",
         date: "January 2024 - April 2024",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",

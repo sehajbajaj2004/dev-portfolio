@@ -52,7 +52,7 @@ const Feedbacks = () => {
         </button>
       </div> */}
 
-      <div className='bg-tertiary p-5 rounded-2xl mt-5'>
+      <div className='bg-tertiary p-5 rounded-2xl mt-5 z-100'>
         <div className='mt-5 flex flex-col w-full justify-start items-start'>
           <div className='flex flex-row w-full h-full items-start justify-start'>
             <div
