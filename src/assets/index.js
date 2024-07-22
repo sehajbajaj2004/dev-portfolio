@@ -31,6 +31,8 @@ import UPES from "./company/UPES.png"
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import radiant from "./radiant.png"
+import weather from "./weather.png"
 
 import resumeimg from "./sehajbajajcv.jpg"
 import pdf_file from "./sehajbajajcv.pdf"
@@ -64,8 +66,10 @@ export {
     datri,
     UPES,
     carrent,
+    radiant,
     jobit,
     tripguide,
     resumeimg,
     pdf_file,
+    weather,
 };

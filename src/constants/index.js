@@ -22,9 +22,11 @@ import {
     datri,
     UPES,
     carrent,
+    radiant,
     jobit,
     tripguide,
     threejs,
+    weather,
 } from "../assets";
 
 export const navLinks = [{
@@ -162,7 +164,7 @@ const testimonials = [{
 
 const projects = [{
         name: "Radiant(Space Endless Runner)",
-        description: "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        description: "Radiant is an endless runner inspired by Operius, featuring a neon tunnel world. Developed in Unity and C# with 3D designs in Blender, players shoot drones and tackle obstacles in a vibrant, fast-paced environment.",
         tags: [{
                 name: "unity",
                 color: "green-text-gradient",
@@ -176,8 +178,8 @@ const projects = [{
                 color: "orange-text-gradient",
             },
         ],
-        image: carrent,
-        source_code_link: "https://github.com/",
+        image: radiant,
+        source_code_link: "https://github.com/sehajbajaj2004/Radiant-Endless-Runner",
     },
     {
         name: "Weather Application",
@@ -195,7 +197,7 @@ const projects = [{
                 color: "pink-text-gradient",
             },
         ],
-        image: jobit,
+        image: weather,
         source_code_link: "https://github.com/",
     },
     {
